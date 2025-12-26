@@ -1,0 +1,3 @@
+model_training.py --- use for model training with dataset(name os the dataset asl_dataset).
+prediction_training.py --- view the prediction of each letter.
+fine_turning_debugging,py --- use personal data input to improve the accuracy of the model by give me the model personal dataset.
